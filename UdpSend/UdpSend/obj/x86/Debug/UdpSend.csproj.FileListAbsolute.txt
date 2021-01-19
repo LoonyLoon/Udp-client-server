@@ -1,0 +1,10 @@
+E:\develop\UdpSend\UdpSend\bin\Debug\UdpSend.exe
+E:\develop\UdpSend\UdpSend\bin\Debug\UdpSend.pdb
+E:\develop\UdpSend\UdpSend\obj\x86\Debug\UdpSend.exe
+E:\develop\UdpSend\UdpSend\obj\x86\Debug\UdpSend.pdb
+D:\develop\08-10-2020_17-49-38\UdpSend\UdpSend\UdpSend\bin\Debug\UdpSend.exe
+D:\develop\08-10-2020_17-49-38\UdpSend\UdpSend\UdpSend\bin\Debug\UdpSend.pdb
+D:\develop\08-10-2020_17-49-38\UdpSend\UdpSend\UdpSend\obj\x86\Debug\UdpSend.csprojAssemblyReference.cache
+D:\develop\08-10-2020_17-49-38\UdpSend\UdpSend\UdpSend\obj\x86\Debug\UdpSend.csproj.CoreCompileInputs.cache
+D:\develop\08-10-2020_17-49-38\UdpSend\UdpSend\UdpSend\obj\x86\Debug\UdpSend.exe
+D:\develop\08-10-2020_17-49-38\UdpSend\UdpSend\UdpSend\obj\x86\Debug\UdpSend.pdb

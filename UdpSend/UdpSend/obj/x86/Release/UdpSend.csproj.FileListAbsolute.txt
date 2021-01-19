@@ -1,0 +1,4 @@
+E:\develop\UdpSend\UdpSend\bin\Release\UdpSend.exe
+E:\develop\UdpSend\UdpSend\bin\Release\UdpSend.pdb
+E:\develop\UdpSend\UdpSend\obj\x86\Release\UdpSend.exe
+E:\develop\UdpSend\UdpSend\obj\x86\Release\UdpSend.pdb

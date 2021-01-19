@@ -1,0 +1,9 @@
+E:\develop\UdpReceive\UdpReceive\bin\Debug\UdpReceive.exe
+E:\develop\UdpReceive\UdpReceive\bin\Debug\UdpReceive.pdb
+E:\develop\UdpReceive\UdpReceive\obj\x86\Debug\UdpReceive.exe
+E:\develop\UdpReceive\UdpReceive\obj\x86\Debug\UdpReceive.pdb
+D:\develop\08-10-2020_17-49-38\UdpReceive\UdpReceive\UdpReceive\bin\Debug\UdpReceive.exe
+D:\develop\08-10-2020_17-49-38\UdpReceive\UdpReceive\UdpReceive\bin\Debug\UdpReceive.pdb
+D:\develop\08-10-2020_17-49-38\UdpReceive\UdpReceive\UdpReceive\obj\x86\Debug\UdpReceive.csproj.CoreCompileInputs.cache
+D:\develop\08-10-2020_17-49-38\UdpReceive\UdpReceive\UdpReceive\obj\x86\Debug\UdpReceive.exe
+D:\develop\08-10-2020_17-49-38\UdpReceive\UdpReceive\UdpReceive\obj\x86\Debug\UdpReceive.pdb
